@@ -1,0 +1,23 @@
+body{
+	background: #FF9933;
+	font-family: "Helvetica", "Verdana";
+}
+
+header{
+	background: #dddddd;
+	max-width: 40em;
+	margin: auto;
+	margin-top: .3em;
+}
+
+header > h1 {
+	text-align: center;
+}
+
+.main{
+	background: #dddddd;
+	max-width: 40em;
+	margin: auto;
+	padding: .2em .2em;
+	margin-top: .3em;
+}
